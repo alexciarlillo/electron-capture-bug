@@ -18,5 +18,8 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^10.1.4"
+  },
+  "dependencies": {
+    "sdp-transform": "^2.14.0"
   }
 }

@@ -14,3 +14,4 @@ window.addEventListener('DOMContentLoaded', () => {
 const {desktopCapturer} = require('electron');
 
 window.desktopCapturer = desktopCapturer;
+window.sdpTransform = require('sdp-transform');;
